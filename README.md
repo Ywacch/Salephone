@@ -1,8 +1,8 @@
 # Salephone
 
-Salephone is an e-commerce app that automates the listing of smartphones on various platforms by predicting future prices based on historical data. It helps users choose phones from a catalogue, where each phone has detailed price history data. This enables the automation of listings with competitive pricing.
+Salephone is an e-commerce app that automates the listing of smartphones on various platforms by predicting future prices based on historical data. It helps users choose phones from a catalogue, where each phone has detailed price history data. This enables the automation of listings with competitive pricing.https://github.com/Ywacch/Salephone/blob/main/Salephone%20architecture.jpg
 
-![Salephone Overview]((https://github.com/Ywacch/smartphone_datagrabber/blob/main/Salephone%20architecture.jpg)) 
+![Salephone Overview](https://github.com/Ywacch/Salephone/blob/main/Salephone%20architecture.jpg) 
 
 ## Features
 
