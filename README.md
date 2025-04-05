@@ -34,6 +34,3 @@ Salephone consists of several microservices, each hosted in its own repository:
 For more details, check out the [Salephone Architecture](https://github.com/Ywacch/Salephone/blob/main/Salephone%20architecture.jpg).
 
 ---
-
-Contributions and feedback are welcome! Feel free to open issues or submit pull requests.
-
